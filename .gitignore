@@ -1,0 +1,3 @@
+*.txt
+!ali.txt
+node_packs/
